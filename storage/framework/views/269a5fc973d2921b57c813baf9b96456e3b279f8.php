@@ -1,0 +1,1 @@
+I am from hello view file.<?php /**PATH /home/synerzip/code/learning/resources/views/hello.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+I am from hello view file in folder. My id is <?php echo e($id); ?><?php /**PATH /home/synerzip/code/learning/resources/views/home/hello.blade.php ENDPATH**/ ?>
